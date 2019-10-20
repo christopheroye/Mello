@@ -163,6 +163,7 @@ function makeSortable() {
       });
     }
   });
+}
 
   $('.list > ul').each(function(index, element) {
   Sortable.create(element, {
@@ -398,6 +399,13 @@ function handleContributorSave(event) {
         'danger'
     );
   })
+}
+
+function openContributorModal() {
+  $contributorModalInput.val('');
+  displayMessage('');
+
+  MicroModal.show('contribute');
 }
 
 function displayMessage(msg, type = 'hidden') {
