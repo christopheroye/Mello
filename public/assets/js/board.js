@@ -439,4 +439,3 @@ $editListSaveButton.on('click', handleListEdit);
 $editListDeleteButton.on('click', handleListDelete);
 $editCardSaveButton.on('click', handleCardSave);
 $editCardDeleteButton.on('click', handleCardDelete);
-}
