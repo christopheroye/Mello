@@ -1,25 +1,22 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # Mello
+
+This is a mellow "Mello" version of the productivity tool, Trello. Basically a todo list web application that allows for multiple tasks to be created.
+
+Creating a new board, and adding a few cards.
+
+Mello will mimic some of the features of Trello, including the ability to sign up for an account, create boards, and invite other users to contribute to boards. You’ll build the front end of Mello using HTML, CSS, and lots of JavaScript.
+
+## Tools:
+
+* .js/ Node and React.
+
+## Features:
+
+* Sign up account creation
+
+* Create Boards
+
+* Create card task
+
+* Invite others to your board
+
