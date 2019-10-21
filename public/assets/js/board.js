@@ -440,6 +440,7 @@ $contributorModalSaveButton.on('click', handleContributorSave);
 $contributorModalButton.on('click', openContributorModal);
 $saveCardButton.on('click', handleCardCreate);
 $logoutButton.on('click', handleLogout);
+$saveListButton.on('click', handleListCreate);
 $editListSaveButton.on('click', handleListEdit);
 $editListDeleteButton.on('click', handleListDelete);
 $editCardSaveButton.on('click', handleCardSave);
