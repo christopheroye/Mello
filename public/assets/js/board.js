@@ -401,6 +401,11 @@ function handleContributorSave(event) {
   })
 }
 
+function displayMessage(msg, type = 'hidden') {
+  $('#contribute .message')
+    .attr('class', `message ${type}`)
+    .text(msg);
+}
 function openContributorModal() {
   $contributorModalInput.val('');
   displayMessage('');
