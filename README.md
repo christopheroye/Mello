@@ -8,11 +8,13 @@ This is a mellow "Mello" version of the productivity tool, Trello. Basically a t
 
 ## Features:
 
-* Sign up account creation
+* User account creation
 
 * Create Boards
 
-* Create card task
+* Add and delete boards, cards, and tasks
+
+* Drag and drop boards and task
 
 * Invite others to your board
 
